@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "advantis-pay-calc",
+    "apc": "advantis-pay-calc"
+  }
+}
