@@ -1,3 +1,0 @@
-# Advantis pay calculator #
-
-tbd
